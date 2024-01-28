@@ -49,6 +49,13 @@ The code in the Jupyter Notebook part_2_mars_weather.ipynb performs the followin
 
 - Quits the browser instance.
 
+## Data Sources
+
+The data used in this project was obtained from the following sources:
+
+- [Mars News Website](https://static.bc-edx.com/data/web/mars_news/index.html): This website provides the latest news articles related to Mars exploration.
+- [Mars Weather Website](https://static.bc-edx.com/data/web/mars_facts/temperature.html): This website provides temperature and atmospheric pressure data for Mars.
+
 ## Conclusion
 
 The project concludes with insights drawn from the analyzed Mars weather data and with articles and information pulled from the Mars News website.
